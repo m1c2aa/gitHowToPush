@@ -1,0 +1,12 @@
+cd  - mozgas
+ls  - lista
+pwd - hol vagyok
+
+Először találd meg a fő, Projektek mappád a megszokott fájlkezelőddel.
+git clone http.....
+git status
+git add --all, or git add your-file-name.extension
+git commit -m "add base file structure"
+Az idézőjelek közötti részt commit message-nek (commitüzenet) hívják. A jó commitüzenet rövid, összefoglalja, hogy milyen változtatások történnek a commit által, és angol nyelvű. 
+git push
+end.
