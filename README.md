@@ -1,2 +1,2 @@
-# githowtopush
-l2puzsh
+# gitHowToPush
+Githubra való push lerása.
