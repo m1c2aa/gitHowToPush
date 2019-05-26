@@ -1,6 +1,7 @@
-cd  - mozgas
+cd  - mozgás
 ls  - lista
 pwd - hol vagyok
+cd..- visszalépés eggyet
 
 Először találd meg a fő, Projektek mappád a megszokott fájlkezelőddel.
 git clone http.....
